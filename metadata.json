@@ -1,0 +1,7 @@
+{
+  "name": "Python Voice AI Assistant",
+  "description": "A complete guide and source code for a Python-based voice assistant that controls Windows PCs using speech commands, PyAutoGUI, and SpeechRecognition.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
